@@ -1,1 +1,1 @@
-# OM-Parity-Versionhallinta
+# OM-Parit-Versionhallinta
