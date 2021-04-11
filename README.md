@@ -1,5 +1,5 @@
 # OM-Parit-Versionhallinta
 
->>> Pääsivun koodi lisätty. Linkit eivät vielä toimi. <VANHA>
+1 Pääsivu, jossa on 2 linkkiä alasivuihin.
 
->>> Pääsivun linkit toimivat.
+Tekijöiden nimet ja muuta tietoa sivuissa.
